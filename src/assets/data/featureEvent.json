@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"IWD'19 Jalandhar",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"DevFest Siliguri 2019",
+    "EventImage":"devfest_ban_2.jpg",
     "EventDate":{
-        "Date":"31",
-        "Month":"3",
+        "Date":"24",
+        "Month":"8",
         "Year":"2019"
     },
     "EventTime":{
         "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "EndTime":"05:30 PM"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
-    "FBEventPageURL":"s"
+    "EventVenue":"Siliguri Institute of Technology",
+    "EventVenueMapLink":"https://goo.gl/maps/wHTvKud6Zprpr8Xo8",
+    "EventWebsite":"https://devfest.gdgsiliguri.com/",
+    "EventDescription":"GDG DevFests are large scale community-run events that can offer speaker sessions across Google product areas, all-day hack-a-thons or both. It is a platform for developers, entrepreneurs and tech enthusiasts to come together and get inspired by the latest technologies. Each GDG DevFest will be inspired by and uniquely tailored to the needs of the developer community that hosts it. Know more about Keynotes and Hackathon",
+    "MeetupLink":"https://www.meetup.com/GDG-Siliguri/events/263389842/",
+    "RegistrationLink":"",
+    "FBEventPageURL":""
 }
 
