@@ -1,56 +1,56 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name":"Avirup Basu",
+        "designation":"Senior IoT Developer, Prescriber360",
+        "twitter":"https://twitter.com/avirup171",
+        "linkedin":"https://www.linkedin.com/in/avirup171",
+        "github":"https://github.com/avirup171",
+        "profileImage":"avirup.png",
+        "website":"http://www.avirupbasu.com"
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Risab Biswas",
+        "designation":"Data scientist, Prescriber360",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "linkedin":"https://www.linkedin.com/in/risab-biswas-200710111",
+        "github":"",
+        "profileImage":"risab.png",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Mayank Mishra",
+        "designation":"Software engineer, McAfeer",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/mayank-sit",
+        "github":"https://github.com/mayank-sit",
+        "profileImage":"mayank.png",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Arkaprova Deb",
+        "designation":"Data Scientist, Prescriber360",
+        "twitter":"https://twitter.com/arkaprovaz",
+        "linkedin":"https://linkedin.com/in/arkaprovaz",
+        "github":"https://github.com/arkaprovaz",
+        "profileImage":"arka.png",
+        "website":""
+    },
+    {
+        "name":"Neha Bhowmick",
+        "designation":"DevOps engineer, Amazon",
+        "twitter":"https://twitter.com/bhowmick_neha/",
+        "linkedin":"https://linkedin.com/in/neha-bhowmick/",
+        "github":"",
+        "profileImage":"neha.png",
+        "website":""
+    },
+    {
+        "name":"Abhishek Nandy",
+        "designation":"AI and IoT architect, Prescriber360",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/abhishek-nandy-74ba592a/",
+        "github":"https://github.com/AbhiLegend",
+        "profileImage":"nandy.png",
         "website":""
     }
 ]
